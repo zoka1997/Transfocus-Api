@@ -1,0 +1,27 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace TransfocusBack.DBData
+{
+    public partial class PriceJobTotal
+    {
+        public Guid Id { get; set; }
+        public Guid? ServiceLaneId { get; set; }
+        public Guid? ServiceCodeId { get; set; }
+        public string ChargeUnitId { get; set; } = null!;
+        public string Description { get; set; } = null!;
+        public string BreaksPrice { get; set; } = null!;
+        public int BreakRules { get; set; }
+        public int? AutoApplyOrder { get; set; }
+        public bool? Active { get; set; }
+        public bool ApplyFuelLevy { get; set; }
+        public bool ReportSummaryInvoice { get; set; }
+        public decimal MinCharge { get; set; }
+        public decimal MaxCharge { get; set; }
+        public string? Account { get; set; }
+
+        public virtual PricingChargeUnit ChargeUnit { get; set; } = null!;
+        public virtual ServiceCode? ServiceCode { get; set; }
+        public virtual ServiceLane? ServiceLane { get; set; }
+    }
+}
