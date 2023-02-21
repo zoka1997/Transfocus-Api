@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mYWF3wViU5MzbAh+lyNTTGQdsKRHhBPJk0ojk4VwImTuPOVbyNjGdgLMPrk+L4wc2PTgKC9wt104gqDncAjBRQ==",
+  "dgSpecHash": "E+0AeBP5Qr8LJP7uiVT2EV2jMlxOiKxGr//c0vxTRNrRmst6fQznr2Mwb5F0qMSIyS2ig5e9ITFmLLTTBr80Dg==",
   "success": true,
-  "projectFilePath": "C:\\Transfocus\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
+  "projectFilePath": "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Axelyos\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Axelyos\\.nuget\\packages\\microsoft.aspnetcore.cors\\2.2.0\\microsoft.aspnetcore.cors.2.2.0.nupkg.sha512",

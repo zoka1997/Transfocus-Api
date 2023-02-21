@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Transfocus\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj": {}
+    "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj": {}
   },
   "projects": {
-    "C:\\Transfocus\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj": {
+    "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Transfocus\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
+        "projectUniqueName": "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
         "projectName": "TransfocusAPI",
-        "projectPath": "C:\\Transfocus\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
+        "projectPath": "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
         "packagesPath": "C:\\Users\\Axelyos\\.nuget\\packages\\",
-        "outputPath": "C:\\Transfocus\\Transfocus\\TransfocusAPI\\obj\\",
+        "outputPath": "C:\\Transfocus\\TransfocusAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Axelyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
