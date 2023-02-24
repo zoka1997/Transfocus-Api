@@ -2481,19 +2481,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Axelyos\\.nuget\\packages\\": {}
+    "C:\\Users\\milos.rasovic\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
+      "projectUniqueName": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\TransfocusAPI.csproj",
       "projectName": "TransfocusAPI",
-      "projectPath": "C:\\Transfocus\\TransfocusAPI\\TransfocusAPI.csproj",
-      "packagesPath": "C:\\Users\\Axelyos\\.nuget\\packages\\",
-      "outputPath": "C:\\Transfocus\\TransfocusAPI\\obj\\",
+      "projectPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\TransfocusAPI.csproj",
+      "packagesPath": "C:\\Users\\milos.rasovic\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Axelyos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\milos.rasovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -13,6 +13,12 @@ builder.Services.AddDbContext<transfocusqa20229261212Context>(options => options
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+builder.Services.AddCors(optipons =>
+{
+    optipons.AddPolicy("AllowAll",
+        policy => policy.AllowAnyHeader().AllowAnyOrigin().AllowAnyMethod());
+});
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
@@ -21,6 +27,8 @@ if (app.Environment.IsDevelopment())
     app.UseSwagger();
     app.UseSwaggerUI();
 }
+
+app.UseCors("AllowAll");
 
 app.UseHttpsRedirection();
 
