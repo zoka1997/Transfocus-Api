@@ -2486,11 +2486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\TransfocusAPI.csproj",
+      "projectUniqueName": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusAPI\\Transfocus-Api\\TransfocusAPI.csproj",
       "projectName": "TransfocusAPI",
-      "projectPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\TransfocusAPI.csproj",
+      "projectPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusAPI\\Transfocus-Api\\TransfocusAPI.csproj",
       "packagesPath": "C:\\Users\\milos.rasovic\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusFrontend\\Transfocus-Api\\obj\\",
+      "outputPath": "C:\\Users\\milos.rasovic\\Desktop\\TransfocusAPI\\Transfocus-Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\milos.rasovic\\AppData\\Roaming\\NuGet\\NuGet.Config",
