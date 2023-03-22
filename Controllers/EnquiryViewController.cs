@@ -18,14 +18,21 @@ namespace TransfocusBack.Controllers
         [HttpPost]
         public  JsonResponse Get()
         {
-            var enqView = _context.EnquiryViews.Take(100).ToList();
-
-            return new JsonResponse
+            try
             {
-                success = true,
-                data = enqView,
-                totalCount = enqView.Count()
-            };
+                var enqView = _context.EnquiryViews.Take(100).ToList();
+
+                return new JsonResponse
+                {
+                    success = true,
+                    data = enqView,
+                    totalCount = enqView.Count()
+                };
+            }
+            catch (Exception ex)
+            {
+                throw new Exception (ex.Message);
+            }
 
 
         }
